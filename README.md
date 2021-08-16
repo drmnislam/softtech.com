@@ -1,4 +1,3 @@
-#Microsoft Learn Student Ambassadors
 
 ![jb1p0zcvmgrdx7yq9sur](https://user-images.githubusercontent.com/64193583/129516115-f70a6cf2-9e80-4563-9e42-a26154407856.png)
 
