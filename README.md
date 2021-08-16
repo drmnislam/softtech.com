@@ -1,4 +1,4 @@
-# MaungNoorIslam.github.io
+# www.softtech.com
 
 All-Praised to Lord: 
 I would like to thank you very much to my mommy and daddy, also the professor/ Instructor locally and globally, and my classmates for your dedication and guidance should be forward my extra eyes which I can use to see the light. Those who have given sacrifices in their life to make a man either a good person and professional in every field, meet me with premium sites and professional technical sites as far. 
