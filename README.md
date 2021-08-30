@@ -1,4 +1,5 @@
-catbug88@home:~$
+Introduction to Linear Algebra for Applied Machine Learning with Python
+
 Archive About
 Introduction to Linear Algebra for Applied Machine Learning with Python
 26 May 2020
@@ -2748,8 +2749,4 @@ Linear algebra is an enormous and fascinating subject. These notes are just an i
 Catbug88 © 2020
 
 
-
-
-
-![jb1p0zcvmgrdx7yq9sur](https://user-images.githubusercontent.com/64193583/129516115-f70a6cf2-9e80-4563-9e42-a26154407856.png)
-
+https://pabloinsente.github.io/intro-linear-algebra
